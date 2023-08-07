@@ -1,0 +1,1 @@
+var json_PeternakanSariTani_4 = {"type":"FeatureCollection","name":"PeternakanSariTani_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","ket":"Peternakan Sari Tani"},"geometry":{"type":"Point","coordinates":[109.819952029522,-7.255493424131874]}}]}
